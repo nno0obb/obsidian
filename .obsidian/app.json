@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "_attachments",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "_templates/"
+  ],
+  "readableLineLength": false,
+  "strictLineBreaks": false
+}

@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "031a3756b5d14e8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb0dd0cfe4c04cfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b9c7a71eb0911ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "384a811bcf1aac76",
+    "type": "split",
+    "children": [
+      {
+        "id": "72c67151b0a5bae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "607babb6ed5ad49e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "20d768636346dcbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c6a0b991c87df51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8418d2d25af97f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "110c0bf388e23c5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "532c4f0eeedaac6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "447e4cd806324ce1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "98f9299d4d1f6c9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0304d64342f0facc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "publish:변경사항 게재": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7b9c7a71eb0911ec",
+  "lastOpenFiles": [
+    "obsidian/커스텀 도메인 설정 ♯1.md",
+    "obsidian/멀티칼럼.md",
+    "obsidian/publish/테이블 가로 스크롤.md",
+    "obsidian/publish/코드 블럭 가로 스크롤.md",
+    "dev/frontend/keyword/css.md",
+    "dev/frontend/keyword",
+    "dev/backend/keyword",
+    "_tags/_types/🏷️ qna.md",
+    "algorithm/ps/boj/10171.md",
+    "_tags/_types/🏷️ solution.md",
+    "_tags/_dirs/🔖 obsidian.md",
+    "_tags/_dirs/🔖 publish.md",
+    "etc/peripherals/사용중인 키보드.md",
+    "obsidian/publish",
+    "_tags/_types/🏷️ device.md",
+    "_tags/_types/🏷️ automation.md",
+    "_tags/_types",
+    "_tags/_dirs/🔖 peripherals.md",
+    "_templates/default.md",
+    "etc/peripherals/keyboard/무제.md",
+    "etc/peripherals/keyboard",
+    "etc/peripherals",
+    "etc",
+    "무제 1.md",
+    "무제.md",
+    "_tags/_dirs/🔖 algorithm.md",
+    "algorithm/ps/boj/script/백준 문제풀이 자동화 ♯2.md",
+    "_templates/later.md",
+    "redis/client/lettuce/무제.md",
+    "Untitled.md",
+    "algorithm/ps/boj/25083.md",
+    "welcome.md",
+    "redis/client/lettuce/get.md",
+    "rabbitmq/client/rabbitmqctl",
+    "rabbitmq/client",
+    "rabbitmq",
+    "_attachments/Pasted image 20250517170503.png",
+    "_attachments/Pasted image 20250517170252.png",
+    "_attachments/Pasted image 20250517165538.png",
+    "_attachments/Pasted image 20250517155600.png",
+    "_attachments/Pasted image 20250517155542.png",
+    "_attachments/Pasted image 20250517155513.png",
+    "_attachments/Pasted image 20250517155331.png",
+    "_attachments/asdf.png",
+    "Obsidian/attachments/images.jpeg",
+    "bmc_qr-2.png"
+  ]
+}

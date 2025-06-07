@@ -1,6 +1,6 @@
 {
-  "commitMessage": "💾 Vault Backup at GitHub\n⏰ {{date}}",
-  "autoCommitMessage": "💾 Vault Backup at GitHub\n⏰ {{date}}",
+  "commitMessage": "💾 Backup at {{date}}",
+  "autoCommitMessage": "💾 Backup at {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,

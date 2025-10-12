@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9f5e309f0dd56ea",
+        "id": "5a252197dab035c8",
         "type": "tabs",
         "children": [
           {
-            "id": "1f7c8cf24ccc6979",
+            "id": "ba10054f842a9ba3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "welcome.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "welcome"
             }
           }
         ]
@@ -176,9 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f7c8cf24ccc6979",
+  "active": "ba10054f842a9ba3",
   "lastOpenFiles": [
     "welcome.md",
+    "etc/content/webnovel.md",
     "무제.canvas",
     "무제.base",
     "무제 1.base",
@@ -191,7 +196,6 @@
     "etc/content/tva.md",
     "etc/content/book.md",
     "etc/content/음악과 영상과 짤과 +β.md",
-    "etc/content/webnovel.md",
     "etc/content/책과 영화와 드라마와 +α.md",
     "etc/content/webtoon.md",
     "programming_language/go/cmd/_go.anyway.md",

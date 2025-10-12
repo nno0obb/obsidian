@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0dd0cfe4c04cfb",
+        "id": "c9f5e309f0dd56ea",
         "type": "tabs",
         "children": [
           {
-            "id": "7b9c7a71eb0911ec",
+            "id": "1f7c8cf24ccc6979",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "새 탭"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: 책과",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -71,7 +67,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           }
         ]
@@ -147,8 +143,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "f67f83cbc9fb817a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -157,6 +164,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -168,53 +176,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b9c7a71eb0911ec",
+  "active": "1f7c8cf24ccc6979",
   "lastOpenFiles": [
-    "README.md",
-    "obsidian/커스텀 도메인 설정 ♯1.md",
-    "obsidian/멀티칼럼.md",
-    "obsidian/publish/테이블 가로 스크롤.md",
-    "obsidian/publish/코드 블럭 가로 스크롤.md",
-    "dev/frontend/keyword/css.md",
-    "dev/frontend/keyword",
-    "dev/backend/keyword",
-    "_tags/_types/🏷️ qna.md",
-    "algorithm/ps/boj/10171.md",
-    "_tags/_types/🏷️ solution.md",
-    "_tags/_dirs/🔖 obsidian.md",
-    "_tags/_dirs/🔖 publish.md",
-    "etc/peripherals/사용중인 키보드.md",
-    "obsidian/publish",
-    "_tags/_types/🏷️ device.md",
-    "_tags/_types/🏷️ automation.md",
-    "_tags/_types",
-    "_tags/_dirs/🔖 peripherals.md",
-    "_templates/default.md",
-    "etc/peripherals/keyboard/무제.md",
-    "etc/peripherals/keyboard",
-    "etc/peripherals",
-    "etc",
-    "무제 1.md",
-    "_tags/_dirs/🔖 algorithm.md",
-    "algorithm/ps/boj/script/백준 문제풀이 자동화 ♯2.md",
-    "_templates/later.md",
-    "redis/client/lettuce/무제.md",
-    "Untitled.md",
-    "algorithm/ps/boj/25083.md",
     "welcome.md",
-    "redis/client/lettuce/get.md",
-    "rabbitmq/client/rabbitmqctl",
-    "rabbitmq/client",
-    "rabbitmq",
+    "무제.canvas",
+    "무제.base",
+    "무제 1.base",
+    "etc/content/youtube.md",
+    "etc/content/music.md",
+    "etc/content/comic.md",
+    "etc/content/movie.md",
+    "etc/content/drama.md",
+    "etc/content/documentary.md",
+    "etc/content/tva.md",
+    "etc/content/book.md",
+    "etc/content/음악과 영상과 짤과 +β.md",
+    "etc/content/webnovel.md",
+    "etc/content/책과 영화와 드라마와 +α.md",
+    "etc/content/webtoon.md",
+    "programming_language/go/cmd/_go.anyway.md",
+    "programming_language/go/code/list/list_basic.md",
+    "programming_language/go/code/file/read.md",
+    "programming_language/python/cmd",
+    "programming_language/python/code",
+    "programming_language/go/code",
+    "programming_language/go/cmd",
+    "programming_language/go/code/file/write.md",
+    "programming_language/go/code/channel/channel_basic.md",
+    "programming_language/go/code/goroutine/mutex.md",
+    "programming_language/go/code/channel",
+    "programming_language/go/code/goroutine/goroutine_basic.md",
+    "programming_language/go/code/string/rune.md",
+    "programming_language/go/code/goroutine",
+    "programming_language/go/code/for/for_basic.md",
+    "programming_language/go/code/panic/recover.md",
+    "programming_language/go/code/panic",
+    "programming_language/go/무제.md",
+    "programming_language/go/code/switch/switch_basic.md",
+    "programming_language/go/code/file",
+    "programming_language/go/code/struct/struct_basic.md",
+    "_attachments/Pasted image 20250726144047.png",
+    "_attachments/Pasted image 20250726143927.png",
+    "_attachments/asdf.png",
+    "ai/무제.canvas",
+    "_attachments/Pasted image 20250608171552.png",
+    "_attachments/Pasted image 20250517155331.png",
+    "_attachments/Pasted image 20250517165538.png",
+    "_attachments/Pasted image 20250608171409.png",
     "_attachments/Pasted image 20250517170503.png",
     "_attachments/Pasted image 20250517170252.png",
-    "_attachments/Pasted image 20250517165538.png",
-    "_attachments/Pasted image 20250517155600.png",
-    "_attachments/Pasted image 20250517155542.png",
-    "_attachments/Pasted image 20250517155513.png",
-    "_attachments/Pasted image 20250517155331.png",
-    "_attachments/asdf.png",
-    "Obsidian/attachments/images.jpeg",
-    "bmc_qr-2.png"
+    "_attachments/Pasted image 20250517155600.png"
   ]
 }

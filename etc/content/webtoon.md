@@ -33,5 +33,5 @@ updated_at: 2025/10/12 15:58:06
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 etc]]
->>    - [[🔖 content]]
+>> - [[🔖 etc]]
+>>   - [[🔖 content]]

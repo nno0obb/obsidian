@@ -49,6 +49,6 @@ kMDItemContentTypeTree = (
 >> - [[🏷️ command]]
 >
 >> [!example] Paths
->> - [[🔖 mac]]
+>> - [[🔖 productivity_tool]]
 >>   - [[🔖 cmd]]
 >>     - [[🔖 mdls]]

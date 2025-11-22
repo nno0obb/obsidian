@@ -54,6 +54,7 @@ John
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 programming_language]]
->>    - [[🔖 go]]
->>      - [[🔖 struct]]
+>> - [[🔖 programming_language]]
+>>   - [[🔖 go]]
+>>     - [[🔖 code]]
+>>       - [[🔖 struct]]

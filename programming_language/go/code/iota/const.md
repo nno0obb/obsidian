@@ -43,6 +43,7 @@ $ go run main.go
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 programming_language]]
->>    - [[🔖 go]]
->>      - [[🔖 iota]]
+>> - [[🔖 programming_language]]
+>>   - [[🔖 go]]
+>>     - [[🔖 code]]
+>>       - [[🔖 iota]]

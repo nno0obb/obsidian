@@ -1,6 +1,6 @@
 ---
 created_at: 2025/06/14 22:48:34
-updated_at: 2025/09/28 14:28:10
+updated_at: 2025/11/22 17:42:52
 ---
 ---
 # # TSIA
@@ -29,6 +29,6 @@ $ echo $?
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 linux]]
->>    - [[🔖 cmd]]
->>      - [[🔖 gtimeout]]
+>> - [[🔖 productivity_tool]]
+>>   - [[🔖 cmd]]
+>>     - [[🔖 gtimeout]]

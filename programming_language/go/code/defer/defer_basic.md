@@ -42,6 +42,7 @@ $ go run main.go
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 programming_language]]
->>    - [[🔖 go]]
->>      - [[🔖 defer]]
+>> - [[🔖 programming_language]]
+>>   - [[🔖 go]]
+>>     - [[🔖 code]]
+>>       - [[🔖 defer]]

@@ -66,6 +66,7 @@ $ go run main.go
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 programming_language]]
->>    - [[🔖 go]]
->>      - [[🔖 sort]]
+>> - [[🔖 programming_language]]
+>>   - [[🔖 go]]
+>>     - [[🔖 code]]
+>>       - [[🔖 sort]]

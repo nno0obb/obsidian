@@ -29,6 +29,7 @@ $ echo $?
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 linux]]
->>    - [[🔖 cmd]]
->>      - [[🔖 timeout]]
+>> - [[🔖 computer_science]]
+>>   - [[🔖 linux]]
+>>     - [[🔖 cmd]]
+>>       - [[🔖 timeout]]

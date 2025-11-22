@@ -68,6 +68,7 @@ $ go run main.go
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 programming_language]]
->>    - [[🔖 go]]
->>      - [[🔖 pointer]]
+>> - [[🔖 programming_language]]
+>>   - [[🔖 go]]
+>>     - [[🔖 code]]
+>>       - [[🔖 pointer]]

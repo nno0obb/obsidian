@@ -75,5 +75,5 @@ $ cat /etc/paths
 >> - [[🏷️ setup]]
 >
 >> [!example] Paths
->> - [[🔖 mac]]
->>   - [[🔖 osx]]
+>> - [[🔖 productivity_tool]]
+>>   - [[🔖 mac]]

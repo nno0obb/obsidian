@@ -100,6 +100,7 @@ def test_solution(subtests):
 >> - [[🏷️ solution]]
 >
 >> [!example] Paths
->> - [[🔖 algorithm]]
->>   - [[🔖 ps]]
->>     - [[🔖 leetcode]]
+>> - [[🔖 computer_science]]
+>>   - [[🔖 algorithm]]
+>>     - [[🔖 ps]]
+>>       - [[🔖 leetcode]]

@@ -26,6 +26,6 @@ $ pipx environment | grep PIPX_DEFAULT_PYTHON
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 productivity_tool]]
->>    - [[🔖 cmd]]
->>      - [[🔖 pipx]]
+>> - [[🔖 productivity_tool]]
+>>   - [[🔖 cmd]]
+>>     - [[🔖 pipx]]

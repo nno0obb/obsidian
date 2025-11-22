@@ -26,6 +26,6 @@ $ fx example.json
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 mac]]
->>    - [[🔖 cmd]]
->>      - [[🔖 fx]]
+>> - [[🔖 productivity_tool]]
+>>   - [[🔖 cmd]]
+>>     - [[🔖 fx]]

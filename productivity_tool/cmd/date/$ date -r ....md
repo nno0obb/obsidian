@@ -29,6 +29,6 @@ Sun Sep 28 17:29:57 KST 2025
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 mac]]
->>    - [[🔖 cmd]]
->>      - [[🔖 datetime]]
+>> - [[🔖 productivity_tool]]
+>>   - [[🔖 cmd]]
+>>     - [[🔖 date]]

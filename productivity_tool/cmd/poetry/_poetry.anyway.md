@@ -1,6 +1,6 @@
 ---
 created_at: 2025/06/14 22:48:34
-updated_at: 2025/10/12 18:49:02
+updated_at: 2025/11/22 17:42:46
 ---
 ---
 # # TSIA
@@ -15,7 +15,7 @@ CURSOR> Python: Clear Cache and Reload Window
 $ asdf list python
 $ asdf set python 3.12.12  # Local
 $ poetry env remove
-$ poetry env use $(asdf which python 3.12.12)
+$ poetry env use $(asdf where python 3.12.12)/bin/python
 $ poetry install  # poetry init
 ```
 
@@ -40,6 +40,6 @@ $ poetry export -f requirements.txt --output requirements.txt --without-hashes
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 productivity_tool]]
->>    - [[🔖 cmd]]
->>      - [[🔖 poetry]]
+>> - [[🔖 productivity_tool]]
+>>   - [[🔖 cmd]]
+>>     - [[🔖 poetry]]

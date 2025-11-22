@@ -65,5 +65,5 @@ updated_at: 2025/10/12 18:06:08
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 etc]]
->>    - [[🔖 content]]
+>> - [[🔖 etc]]
+>>   - [[🔖 content]]

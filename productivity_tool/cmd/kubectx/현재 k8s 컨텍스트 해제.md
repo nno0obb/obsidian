@@ -32,6 +32,6 @@ Property "current-context" unset.
 >> - [[🏷️ k8s]]
 >
 >> [!example] Paths
->> * [[🔖 mac]]
->>   * [[🔖 cmd]]
->>     * [[🔖 kubectx]]
+>> - [[🔖 productivity_tool]]
+>>   - [[🔖 cmd]]
+>>     - [[🔖 kubectx]]

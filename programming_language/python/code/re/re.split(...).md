@@ -29,6 +29,7 @@ updated_at: 2025/09/28 17:26:21
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 language]]
->>    - [[🔖 python]]
->>      - [[🔖 re]]
+>> - [[🔖 programming_language]]
+>>   - [[🔖 python]]
+>>     - [[🔖 code]]
+>>       - [[🔖 re]]

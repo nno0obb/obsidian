@@ -31,6 +31,6 @@ nno0ob-test
 >> - [[🏷️ k8s]]
 >
 >> [!example] Paths
->> - [[🔖 mac]]
+>> - [[🔖 productivity_tool]]
 >>   - [[🔖 cmd]]
 >>     - [[🔖 kubectx]]

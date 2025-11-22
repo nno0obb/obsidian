@@ -33,6 +33,7 @@ fdsa:456
 >> - ...
 >
 >> [!example] Paths
->>  - [[🔖 linux]]
->>    - [[🔖 cmd]]
->>      - [[🔖 grep]]
+>> - [[🔖 computer_science]]
+>>   - [[🔖 linux]]
+>>     - [[🔖 cmd]]
+>>       - [[🔖 grep]]

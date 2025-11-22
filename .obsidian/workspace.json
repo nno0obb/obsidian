@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e25b084384035aac",
+        "id": "38421cc0b3c1c620",
         "type": "tabs",
         "children": [
           {
-            "id": "1eede51b4cdc0409",
+            "id": "def14af395f4c113",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_tags/_dirs/🔖 poetry.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "🔖 poetry"
             }
           }
         ]
@@ -49,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: poetry",
-                "matchingCase": false,
+                "query": "ifconfig.me",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,8 +74,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,45 +180,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1eede51b4cdc0409",
+  "active": "def14af395f4c113",
   "lastOpenFiles": [
+    "welcome.md",
+    "README.md",
+    "_tags/_dirs/🔖 develop.md",
+    "_tags/_dirs/🔖 poetry.md",
+    "productivity_tool/cmd/gtimeout/$ gtimeout ....md",
     "productivity_tool/cmd/poetry/_poetry.anyway.md",
+    "develop/urls/🚧　ifconfig.me.md",
+    "productivity_tool/cmd/uv/_uv.anyway.md",
+    "uv.lock",
+    "productivity_tool/cmd/uv",
+    "etc/content/book.md",
+    "productivity_tool/cmd/git/_git.anyway.md",
+    "productivity_tool/cmd/git/더 이상 존재하지 않는 원격 브랜치 삭제.md",
+    "productivity_tool/mac/sysdiagnose.md",
+    "etc/shortcut/Surfingkeys.md",
+    "etc/content/books/커리어 그리고 가정.md",
+    "etc/content/books/경험의 멸종.md",
+    "etc/content/books/도파민네이션.md",
+    "etc/content/books/실격당한 자들을 위한 변론.md",
+    "etc/content/youtube.md",
+    "productivity_tool/mac/투명도 감소.md",
+    "_attachments/Pasted image 20251026171623.png",
+    "computer_science/algorithm/ps/boj/24228.md",
+    "etc/content/books",
+    "etc/peripheral/사용중인 키보드.md",
+    "productivity_tool/cmd/asdf/_asdf.anyway.md",
     "무제.base",
     "무제 1.base",
     "etc/content/documentary.md",
-    "README.md",
     "etc/content/tva.md",
-    "welcome.md",
     "etc/content/webnovel.md",
     "무제.canvas",
-    "etc/content/youtube.md",
     "etc/content/music.md",
-    "etc/content/comic.md",
-    "etc/content/movie.md",
-    "etc/content/drama.md",
-    "etc/content/book.md",
-    "etc/content/음악과 영상과 짤과 +β.md",
-    "etc/content/책과 영화와 드라마와 +α.md",
-    "etc/content/webtoon.md",
-    "programming_language/go/cmd/_go.anyway.md",
-    "programming_language/go/code/list/list_basic.md",
-    "programming_language/go/code/file/read.md",
     "programming_language/python/cmd",
     "programming_language/python/code",
     "programming_language/go/code",
     "programming_language/go/cmd",
-    "programming_language/go/code/file/write.md",
-    "programming_language/go/code/channel/channel_basic.md",
-    "programming_language/go/code/goroutine/mutex.md",
     "programming_language/go/code/channel",
-    "programming_language/go/code/goroutine/goroutine_basic.md",
-    "programming_language/go/code/string/rune.md",
-    "programming_language/go/code/goroutine",
-    "programming_language/go/code/for/for_basic.md",
-    "programming_language/go/code/panic/recover.md",
-    "programming_language/go/code/panic",
-    "programming_language/go/무제.md",
-    "programming_language/go/code/file",
     "_attachments/Pasted image 20250726144047.png",
     "_attachments/Pasted image 20250726143927.png",
     "_attachments/asdf.png",
@@ -225,7 +229,6 @@
     "_attachments/Pasted image 20250517165538.png",
     "_attachments/Pasted image 20250608171409.png",
     "_attachments/Pasted image 20250517170503.png",
-    "_attachments/Pasted image 20250517170252.png",
-    "_attachments/Pasted image 20250517155600.png"
+    "_attachments/Pasted image 20250517170252.png"
   ]
 }

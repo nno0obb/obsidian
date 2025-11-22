@@ -19,23 +19,7 @@ updated_at: 2025/06/08 17:03:28
 >> - [[🏷️ qna]]
 >
 >> [!example] Paths
->>  - [[🔖 obsidian]]
->>    - [[🔖 publish]]
-```
-
----
-
-> [!info] Keywords
-> - ...
-
-> [!tip] Refs
-> - GitHub :: [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout/tree/main)
-
-> [!multi-column]
->
->> [!cite] Tags
->> - [[🏷️ qna]]
->
->> [!example] Paths
->>  - [[🔖 obsidian]]
->>    - [[🔖 publish]]
+>> - [[🔖 productivity_tool]]
+>>   - [[🔖 app]]
+>>     - [[🔖 obsidian]]
+>>       - [[🔖 publish]]

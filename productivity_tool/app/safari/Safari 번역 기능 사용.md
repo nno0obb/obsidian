@@ -36,6 +36,6 @@ updated_at: 2025/05/23 22:28:39
 >> - [[🏷️ feature]]
 >
 >> [!example] Paths
->> - [[🔖 mac]]
+>> - [[🔖 productivity_tool]]
 >>   - [[🔖 app]]
 >>     - [[🔖 safari]]

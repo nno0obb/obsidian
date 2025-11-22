@@ -48,6 +48,6 @@ Host max:   8.255.255.254
 >> - [[🏷️ command]]
 >
 >> [!example] Paths
->> - [[🔖 mac]]
->>   - [[🔖 clt]]
+>> - [[🔖 productivity_tool]]
+>>   - [[🔖 cmd]]
 >>     - [[🔖 ipinfo]]
